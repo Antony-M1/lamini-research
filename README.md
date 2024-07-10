@@ -1,5 +1,8 @@
 # Lamini
 
+Lamini makes it possible for enterprises to turn proprietary data into the next generation of LLM capabilities.
+
+Here a tutorial [Link](https://learn.deeplearning.ai/courses/finetuning-large-language-models)
 
 # .env
 

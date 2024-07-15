@@ -1,4 +1,4 @@
-# Lamini
+# [Lamini](https://www.lamini.ai/)
 
 Lamini makes it possible for enterprises to turn proprietary data into the next generation of LLM capabilities.
 
